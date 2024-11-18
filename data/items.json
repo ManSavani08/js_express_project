@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 1",
+    "price": 120.99,
+    "image": "images/img1.png"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1",
+    "price": 90.99,
+    "image": "images/img2.png"
+  },
+  {
+    "id": 3,
+    "name": "Nike ZoomX Vaporfly",
+    "price": 250.0,
+    "image": "images/img3.png"
+  },
+  {
+    "id": 4,
+    "name": "Nike React Element 55",
+    "price": 130.75,
+    "image": "images/img4.png"
+  },
+  {
+    "id": 5,
+    "name": "Nike SB Dunk Low",
+    "price": 100.25,
+    "image": "images/img5.png"
+  },
+  {
+    "id": 6,
+    "name": "Nike Blazer Mid '77",
+    "price": 110.5,
+    "image": "images/img6.png"
+  }
+]
